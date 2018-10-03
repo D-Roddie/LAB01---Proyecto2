@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\obj\Debug\Calculadora_Client.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\obj\Debug\Calculadora_Client.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\bin\Debug\Calculadora_Client.exe.config
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\bin\Debug\Calculadora_Client.exe
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\bin\Debug\Calculadora_Client.pdb
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\obj\Debug\Calculadora_Client.csproj.CopyComplete
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\obj\Debug\Calculadora_Client.exe
+C:\Users\Dell\source\repos\LAB1 Calculadora\Calculadora_Client\obj\Debug\Calculadora_Client.pdb

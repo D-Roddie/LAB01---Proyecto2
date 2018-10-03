@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Calculadora_API.WebApiApplication" Language="C#" %>
